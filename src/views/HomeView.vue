@@ -35,7 +35,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["Web Developer", "Full-stack Engineer", "Informatics Student", "Tech Enthusiast"],
+      toRotate: ["Bigetron Fans", "Student", "Tech Enthusiast"],
       period: 2000,
       txt: '',
       loopNum: 0,
